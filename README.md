@@ -27,7 +27,7 @@ Door een gestructureerd framework te hebben weet je als bedrijf waar je aan toe 
 
 Dit voorkomt dat er later blijkt dat er een fout is gemaakt en er applicaties misschien toch niet compliant zijn met belangrijke regels, wat ervoor zorg dat dit later nog moet worden aangepast. Dit brengt alleen maar extra kosten met zich mee en is er misschien ook wel downtime nodig, niet handig dus. Een goed cloud adoption framework is dus belangrijk om te hebben.
 
- ![afbeelding](/cloud-governance/blob/main/overview.png)
+ ![afbeelding](/cloud-governance/overview.png)
 
 Hierboven worden de verschillende onderdelen van het framework laten zien. Het is dus redelijk dekkend voor de Governance aspecten. De belangrijkste worden behandeld, maar toch wordt niet alles genoemd. Er zijn frameworks die dit beter behandelen.
 
